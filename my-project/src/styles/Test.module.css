@@ -1,0 +1,7 @@
+.card {
+    @apply card-title border border-rose-500
+}
+
+.box {
+    @apply container mx-auto xl:bg-rose-200 lg:bg-black md:bg-rose-500 sm:bg-rose-600 bg-rose-700 p-8
+}

@@ -1,0 +1,20 @@
+/** DaisyUI css**/
+.click {
+    @apply btn
+}
+
+/** tailwind CSS **/
+.click {
+    @apply text-4xl bg-[#abf7a2] text-[#fb8563] hover:bg-rose-300 hover:text-white hover:border-rose-500
+}
+
+/** CSS **/
+
+.click {
+    border: 2px solid green; 
+    
+}
+
+.box {
+    @apply container mx-auto text-center box-border
+}
